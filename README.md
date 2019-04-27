@@ -34,7 +34,7 @@
 > Spring cloud框架开发的微信公众号商城 
 + docker swarm 
 + bitbucket + jenkins +jira 持续集成布署
-+ zookeeper Mysql  Mongodb RabbitMQ Redis 阿里云CDN SLB
++ Zookeeper Mysql  Mongodb RabbitMQ Redis 阿里云CDN SLB
 + portainer swarm监控 宿主机、数据库zabbix 监控 
 
 ***
@@ -43,8 +43,8 @@
 > XX加油站 App后端， PC端
 + php  php nginx 阿里云SLB CDN  
 + ELK Zabbix  
-+ gitlab gitlab-runner rsync 持续集成布署
-+ gitlab + gradle + 360加固 + 阿里云OSS + 蒲公英 Android端持续集成发布
++ Gitlab Gitlab-runner Rsync 持续集成布署
++ Gitlab + Gradle + 360加固 + 阿里云OSS + 蒲公英 Android端持续集成发布
 + Redis Mysql集群
 
 ***
@@ -52,7 +52,9 @@
 
 > 外包项目30+
 
-*  Apache/Nginx/tomcat/Mysql/Oracle/Redis/Mongodb/ActiveMQ/RabittMQ//ZookeeperElasticsearch/kafka/glusfs/nfs
+* Apache/Nginx/tomcat/Mysql/Oracle/Redis/Mongodb/
+* ActiveMQ/RabittMQ//ZookeeperElasticsearch/kafka
+* Glusfs/NFS/FastFS
 * 本地虚拟化服务器、测试环境，网络管理
 
 ***
@@ -66,7 +68,7 @@
 * docker/docker swarm/docker-compose kubernetes Rancher
 * VM/KVM，openstack
 * 阿里云/腾讯云
-* zookeeper kafka elasticsearch 等中间件
+* Zookeeper Kafka Elasticsearch 等中间件
 
 
 ## 关键字
